@@ -1,12 +1,13 @@
 class Person 
   #writes the name of the person to the instant variable name
+  
   def name=(person_name)
     @name = person_name
   end
   
    #reads name of the person from instant variable name
   def name
-    @name = person_name
+    @name 
   end
   
   #writes the job of the person to the instant variable job
