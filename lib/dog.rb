@@ -1,6 +1,4 @@
 class Dog 
-  
-  
   #writes the dog_name to instant variable @name
   def name=(dog_name) 
     @name = dog_name
