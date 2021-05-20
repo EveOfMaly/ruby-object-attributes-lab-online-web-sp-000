@@ -1,6 +1,6 @@
 class Person 
   #writes the name of the person to the instant variable name
-  def name= (person_name)
+  def name=(person_name)
     @name = person_name
   end
   
